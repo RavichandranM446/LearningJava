@@ -5,7 +5,7 @@ public class Datatypes {
         String name="RAVI";
         double height=22.4;
         float price=3.4f;
-        boolean forSale=true;
+        boolean forSale = true ;
         System.out.println("Hi my age is "+age);
         System.out.print(symbol);
         System.out.println(name);
