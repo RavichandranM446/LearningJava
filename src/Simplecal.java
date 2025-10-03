@@ -33,6 +33,7 @@ public class Simplecal {
                 System.out.println("It is not divided by 0");
             }
         }
+        cal.close();
 
     }
 }
