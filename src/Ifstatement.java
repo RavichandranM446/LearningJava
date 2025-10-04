@@ -5,7 +5,7 @@ public class Ifstatement {
         Scanner vayasu = new Scanner(System.in);
         int age=-8;
         String name;
-        System.out.println("Enter your name");
+        System.out.println("Enter your name ");
 name= vayasu.nextLine();
 if(name.isEmpty()){
     System.out.println("you didnt enter your name:");
